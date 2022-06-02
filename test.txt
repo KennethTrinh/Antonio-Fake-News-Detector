@@ -1,0 +1,4 @@
+cd Desktop/Antonio-Fake-News-Detector
+git add test.txt
+git commit -m "reference for pushing to git"
+git push
